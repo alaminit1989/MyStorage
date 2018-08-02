@@ -1,9 +1,9 @@
 >	# AKIJ GOOUT IT
 
->	##	Software
+>	##	[Software](https://github.com/alaminit1989/MyStorage/tree/master/Software)
 
->	##	Project
+>	##	[Project](https://github.com/alaminit1989/MyStorage/tree/master/Project)
 
->	##	Tutorials
+>	##	[Tutorials](https://github.com/alaminit1989/MyStorage/tree/master/Tutorial)
 
->	##	Documentation
+>	##	[Documentation](https://github.com/alaminit1989/MyStorage/tree/master/Documentation)
